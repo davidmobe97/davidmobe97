@@ -11,12 +11,12 @@
 
 ## Tecnologías
 
-**Web:** HTML5 · CSS3 · JavaScript · PHP · WordPress · WooCommerce · Elementor
-**Datos:** SQL · Oracle (PL/SQL) · MySQL
-**Programación:** Java SE / EE · Spring · Hibernate · Angular
-**SEO:** Google Search Console · SEO técnico · redirecciones 301 · datos estructurados
-**3D y vídeo:** Blender · Unreal Engine · Remotion (React)
-**Móvil:** Android
+- **Web:** HTML5 · CSS3 · JavaScript · PHP · WordPress · WooCommerce · Elementor
+- **Datos:** SQL · Oracle (PL/SQL) · MySQL
+- **Programación:** Java SE / EE · Spring · Hibernate · Angular
+- **SEO:** Google Search Console · SEO técnico · redirecciones 301 · datos estructurados
+- **3D y vídeo:** Blender · Unreal Engine · Remotion (React)
+- **Móvil:** Android
 
 ## Proyectos
 

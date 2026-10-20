@@ -22,6 +22,7 @@
 
 | Proyecto | Qué es |
 |---|---|
+| [Mi web de portfolio](https://davidmobe97.github.io) | Todos mis proyectos, tecnologías y CV descargable |
 | [Portfolio · Syros Maquinaria](https://github.com/davidmobe97/portfolio-syros-maquinaria) | Tienda online WooCommerce con más de 2.500 productos, SEO técnico y vídeos 3D de producto |
 | [Botón de ficha técnica para WooCommerce](https://github.com/davidmobe97/woo-ficha-tecnica-pdf) | Plugin de ejemplo: muestra en cada producto un botón para descargar su ficha técnica en PDF |
 
@@ -29,4 +30,4 @@
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/david-molero-berrocal) · [syrosmaquinaria.com](https://syrosmaquinaria.com)
+[Portfolio](https://davidmobe97.github.io) · [LinkedIn](https://www.linkedin.com/in/david-molero-berrocal) · [syrosmaquinaria.com](https://syrosmaquinaria.com)
